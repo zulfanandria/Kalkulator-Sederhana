@@ -12,4 +12,4 @@ stack. Pertama tama, ubah bentuk infix ke postfix, sehingga dapat berbentuk menj
 Setelah itu barulah hasil dari keduanya ditambahkan, sehingga didapatkan nilai 15 sebagai 
 hasilnya. 
 
-![Contoh Output Progeram]("C:\Users\zulfanandria\Pictures\Screenshots\LampiranOutputProgram.png"?raw=true "Lampiran")
+![LampiranOutputProgram](https://user-images.githubusercontent.com/93639634/178755297-6fa716f7-10ae-49b5-96ad-eff2b3b84b1e.png)
