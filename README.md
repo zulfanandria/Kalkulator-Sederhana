@@ -11,3 +11,5 @@ stack. Pertama tama, ubah bentuk infix ke postfix, sehingga dapat berbentuk menj
 12+34*+ . Disitu artinya angka 1 dan 2 ditambahkan, dan angka 3 dan 4 dikalikan. 
 Setelah itu barulah hasil dari keduanya ditambahkan, sehingga didapatkan nilai 15 sebagai 
 hasilnya. 
+
+![Contoh Output Progeram](relative/path/to/"C:\Users\zulfanandria\Pictures\Screenshots\LampiranOutputProgram.png"?raw=true "Lampiran")
