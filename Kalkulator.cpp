@@ -107,6 +107,7 @@ int CalcuPostfix(string input)
 
 int main()
 {
+    // Input perhitungan ex :1 + 2 * 2 - 3 / 3
     string input;
     getline(cin, input);
 
@@ -118,7 +119,7 @@ int main()
 
     // Mengubah Infix menjadi Postfix
     InfixKePostfix(input);
-    
+
     // Menghitung Postfix
     input = InPostfix;
     CalcuPostfix(input);
