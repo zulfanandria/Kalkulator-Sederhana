@@ -8,6 +8,7 @@ using namespace std;
 
 string InPostfix;
 
+// Operator
 int Operator(char Hitung)
 {
     if (Hitung == '^')
@@ -28,6 +29,7 @@ int Operator(char Hitung)
     }
 }
 
+// Converting Infix to Postfix
 void InfixKePostfix(string input)
 {
     stack<char> iStack;
@@ -64,6 +66,7 @@ void InfixKePostfix(string input)
     }
 }
 
+// Calculating Postfix
 int CalcuPostfix(string input)
 {
     stack<int> jStack;
