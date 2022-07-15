@@ -1,6 +1,6 @@
 # Kalkulator-Sederhana
 
-Kalkulator dengan input seperti 1 + 2 + 3 * 4 . Semua angka dan operator dipisah oleh tanda spasi. Disini saya menggunakan 
+ Kalkulator dengan input seperti 1 + 2 + 3 * 4 . Semua angka dan operator dipisah oleh tanda spasi. Disini saya menggunakan 
 cara stack, namun sebelum itu saya membuat input tersebut agar dihilangkan tanda spasinya, 
 sehingga menjadi 1+2+3*4 . Cara tersebut saya gunakan dengan cara menghitung panjang 
 string, lalu mendeteksi tempat tanda spasi, dan kemudian dihapuskan. 
