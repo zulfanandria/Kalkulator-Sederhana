@@ -13,3 +13,8 @@ Setelah itu barulah hasil dari keduanya ditambahkan, sehingga didapatkan nilai 1
 hasilnya. 
 
 ![LampiranOutputProgram](https://user-images.githubusercontent.com/93639634/178755297-6fa716f7-10ae-49b5-96ad-eff2b3b84b1e.png)
+
+# Simple-Calculator
+
+Using stack methode, delete the space between the input, turn it into infix form, then
+turn it again into postfix form. Finally, calculate postfix form to get the solution
