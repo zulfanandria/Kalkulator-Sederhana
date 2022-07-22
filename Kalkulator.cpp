@@ -126,6 +126,7 @@ int main()
     input = InPostfix;
     CalcuPostfix(input);
     cout << CalcuPostfix(input);
+    cout << "End";
 
     return 0;
 }
